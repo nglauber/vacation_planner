@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="general_medium_space">16dp</dimen>
+    <dimen name="general_small_space">8dp</dimen>
+    <dimen name="general_smallest_space">4dp</dimen>
+
+    <dimen name="main_card_elevation">4dp</dimen>
+    <dimen name="main_spinner_width">100dp</dimen>
+    <dimen name="main_spinner_dropdown_width">80dp</dimen>
+    <dimen name="main_list_min_height">200dp</dimen>
+    <dimen name="main_autocomplete_text_size">14sp</dimen>
+
+    <dimen name="item_city_text_size">14sp</dimen>
+
+    <dimen name="item_result_date_text_size">24sp</dimen>
+    <dimen name="item_result_days_text_size">36sp</dimen>
+
+    <dimen name="empty_icon_size">96dp</dimen>
+    <dimen name="empty_title_text_size">24sp</dimen>
+    <dimen name="empty_message_text_size">16sp</dimen>
+</resources>

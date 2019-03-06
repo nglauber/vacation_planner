@@ -1,0 +1,31 @@
+[{
+  "woeid": "455821",
+  "district":"Porto Alegre",
+  "province": "Rio Grande do Sul",
+  "state_acronym": "RS",
+  "country": "Brazil"
+},{
+  "woeid": "455827",
+  "district":"São Paulo",
+  "province": "São Paulo",
+  "state_acronym": "SP",
+  "country": "Brazil"
+},{
+  "woeid": "455824",
+  "district":"Recife",
+  "province": "Pernambuco",
+  "state_acronym": "PE",
+  "country": "Brazil"
+},{
+  "woeid": "455823",
+  "district":"Belo Horizonte",
+  "province": "Minas Gerais",
+  "state_acronym": "MG",
+  "country": "Brazil"
+},{
+  "woeid": "455825",
+  "district":"Rio de Janeiro",
+  "province": "Rio de Janeiro",
+  "state_acronym": "RJ",
+  "country": "Brazil"
+}]

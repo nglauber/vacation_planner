@@ -1,0 +1,170 @@
+[
+    {
+        "id": "001",
+        "name": "blowing snow"
+    },
+    {
+        "id": "002",
+        "name": "blustery"
+    },
+    {
+        "id": "003",
+        "name": "clear"
+    },
+    {
+        "id": "004",
+        "name": "cloudy"
+    },
+    {
+        "id": "005",
+        "name": "cold"
+    },
+    {
+        "id": "006",
+        "name": "drizzle"
+    },
+    {
+        "id": "007",
+        "name": "dust"
+    },
+    {
+        "id": "008",
+        "name": "fair"
+    },
+    {
+        "id": "009",
+        "name": "foggy"
+    },
+    {
+        "id": "010",
+        "name": "freezing drizzle"
+    },
+    {
+        "id": "011",
+        "name": "freezing rain"
+    },
+    {
+        "id": "012",
+        "name": "hail"
+    },
+    {
+        "id": "013",
+        "name": "haze"
+    },
+    {
+        "id": "014",
+        "name": "heavy snow"
+    },
+    {
+        "id": "015",
+        "name": "hot"
+    },
+    {
+        "id": "016",
+        "name": "hurricane"
+    },
+    {
+        "id": "017",
+        "name": "isolated thundershowerspartly cloudy"
+    },
+    {
+        "id": "018",
+        "name": "isolated thundershowerstornado"
+    },
+    {
+        "id": "019",
+        "name": "isolated thundershowerstropical storm"
+    },
+    {
+        "id": "020",
+        "name": "isolated thunderstorms"
+    },
+    {
+        "id": "021",
+        "name": "light snow showers"
+    },
+    {
+        "id": "022",
+        "name": "mixed rain and hail"
+    },
+    {
+        "id": "023",
+        "name": "mixed rain and sleet"
+    },
+    {
+        "id": "024",
+        "name": "mixed rain and snow"
+    },
+    {
+        "id": "025",
+        "name": "mixed snow and sleet"
+    },
+    {
+        "id": "026",
+        "name": "mostly cloudy"
+    },
+    {
+        "id": "027",
+        "name": "partly cloudy"
+    },
+    {
+        "id": "028",
+        "name": "scattered showers"
+    },
+    {
+        "id": "029",
+        "name": "scattered snow showers"
+    },
+    {
+        "id": "030",
+        "name": "scattered thunderstorms"
+    },
+    {
+        "id": "031",
+        "name": "severe thunderstorms"
+    },
+    {
+        "id": "032",
+        "name": "showers"
+    },
+    {
+        "id": "033",
+        "name": "sleet"
+    },
+    {
+        "id": "034",
+        "name": "smoky"
+    },
+    {
+        "id": "035",
+        "name": "snow"
+    },
+    {
+        "id": "036",
+        "name": "snow flurries"
+    },
+    {
+        "id": "037",
+        "name": "snow showers"
+    },
+    {
+        "id": "038",
+        "name": "thundershowers"
+    },
+    {
+        "id": "039",
+        "name": "thunderstorms"
+    },
+    {
+        "id": "040",
+        "name": "tornado"
+    },
+    {
+        "id": "041",
+        "name": "tropical storm"
+    },
+    {
+        "id": "042",
+        "name": "windy"
+    }
+]

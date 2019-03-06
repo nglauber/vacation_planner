@@ -1,0 +1,3652 @@
+[
+    {
+        "date": "<% url.2 %>-01-01", 
+        "temperature": {
+            "max": 9, 
+            "min": 1, 
+            "unit": "C"
+        }, 
+        "weather": "smoky", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-02", 
+        "temperature": {
+            "max": 34, 
+            "min": 8, 
+            "unit": "C"
+        }, 
+        "weather": "thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-03", 
+        "temperature": {
+            "max": 23, 
+            "min": 7, 
+            "unit": "C"
+        }, 
+        "weather": "showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-04", 
+        "temperature": {
+            "max": 5, 
+            "min": 5, 
+            "unit": "C"
+        }, 
+        "weather": "severe thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-05", 
+        "temperature": {
+            "max": 37, 
+            "min": 6, 
+            "unit": "C"
+        }, 
+        "weather": "showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-06", 
+        "temperature": {
+            "max": 20, 
+            "min": 8, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-07", 
+        "temperature": {
+            "max": 24, 
+            "min": -6, 
+            "unit": "C"
+        }, 
+        "weather": "dust", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-08", 
+        "temperature": {
+            "max": 32, 
+            "min": 18, 
+            "unit": "C"
+        }, 
+        "weather": "fair", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-09", 
+        "temperature": {
+            "max": 36, 
+            "min": 29, 
+            "unit": "C"
+        }, 
+        "weather": "foggy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-10", 
+        "temperature": {
+            "max": 0, 
+            "min": -7, 
+            "unit": "C"
+        }, 
+        "weather": "cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-11", 
+        "temperature": {
+            "max": 33, 
+            "min": 26, 
+            "unit": "C"
+        }, 
+        "weather": "clear", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-12", 
+        "temperature": {
+            "max": 16, 
+            "min": 9, 
+            "unit": "C"
+        }, 
+        "weather": "thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-13", 
+        "temperature": {
+            "max": 40, 
+            "min": 35, 
+            "unit": "C"
+        }, 
+        "weather": "partly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-14", 
+        "temperature": {
+            "max": 24, 
+            "min": 22, 
+            "unit": "C"
+        }, 
+        "weather": "tropical storm", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-15", 
+        "temperature": {
+            "max": 34, 
+            "min": 24, 
+            "unit": "C"
+        }, 
+        "weather": "showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-16", 
+        "temperature": {
+            "max": 19, 
+            "min": 14, 
+            "unit": "C"
+        }, 
+        "weather": "cold", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-17", 
+        "temperature": {
+            "max": -8, 
+            "min": -9, 
+            "unit": "C"
+        }, 
+        "weather": "showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-18", 
+        "temperature": {
+            "max": 8, 
+            "min": -1, 
+            "unit": "C"
+        }, 
+        "weather": "smoky", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-19", 
+        "temperature": {
+            "max": 17, 
+            "min": 0, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-20", 
+        "temperature": {
+            "max": 20, 
+            "min": 11, 
+            "unit": "C"
+        }, 
+        "weather": "snow showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-21", 
+        "temperature": {
+            "max": 31, 
+            "min": -4, 
+            "unit": "C"
+        }, 
+        "weather": "partly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-22", 
+        "temperature": {
+            "max": 2, 
+            "min": 1, 
+            "unit": "C"
+        }, 
+        "weather": "mixed rain and hail", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-23", 
+        "temperature": {
+            "max": -4, 
+            "min": -6, 
+            "unit": "C"
+        }, 
+        "weather": "showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-24", 
+        "temperature": {
+            "max": 29, 
+            "min": 18, 
+            "unit": "C"
+        }, 
+        "weather": "thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-25", 
+        "temperature": {
+            "max": 36, 
+            "min": 22, 
+            "unit": "C"
+        }, 
+        "weather": "thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-26", 
+        "temperature": {
+            "max": 38, 
+            "min": 30, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-27", 
+        "temperature": {
+            "max": 32, 
+            "min": 30, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-28", 
+        "temperature": {
+            "max": 21, 
+            "min": 19, 
+            "unit": "C"
+        }, 
+        "weather": "windy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-29", 
+        "temperature": {
+            "max": 35, 
+            "min": 11, 
+            "unit": "C"
+        }, 
+        "weather": "scattered thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-30", 
+        "temperature": {
+            "max": 32, 
+            "min": -10, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-01-31", 
+        "temperature": {
+            "max": 25, 
+            "min": 8, 
+            "unit": "C"
+        }, 
+        "weather": "cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-01", 
+        "temperature": {
+            "max": 20, 
+            "min": 4, 
+            "unit": "C"
+        }, 
+        "weather": "smoky", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-02", 
+        "temperature": {
+            "max": 28, 
+            "min": -9, 
+            "unit": "C"
+        }, 
+        "weather": "smoky", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-03", 
+        "temperature": {
+            "max": 32, 
+            "min": 25, 
+            "unit": "C"
+        }, 
+        "weather": "cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-04", 
+        "temperature": {
+            "max": 32, 
+            "min": 17, 
+            "unit": "C"
+        }, 
+        "weather": "snow showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-05", 
+        "temperature": {
+            "max": 38, 
+            "min": -4, 
+            "unit": "C"
+        }, 
+        "weather": "scattered thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-06", 
+        "temperature": {
+            "max": 25, 
+            "min": 4, 
+            "unit": "C"
+        }, 
+        "weather": "mixed rain and hail", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-07", 
+        "temperature": {
+            "max": 32, 
+            "min": 22, 
+            "unit": "C"
+        }, 
+        "weather": "scattered thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-08", 
+        "temperature": {
+            "max": 29, 
+            "min": 21, 
+            "unit": "C"
+        }, 
+        "weather": "scattered thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-09", 
+        "temperature": {
+            "max": 13, 
+            "min": -9, 
+            "unit": "C"
+        }, 
+        "weather": "freezing drizzle", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-10", 
+        "temperature": {
+            "max": 24, 
+            "min": 19, 
+            "unit": "C"
+        }, 
+        "weather": "snow showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-11", 
+        "temperature": {
+            "max": 22, 
+            "min": 21, 
+            "unit": "C"
+        }, 
+        "weather": "tropical storm", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-12", 
+        "temperature": {
+            "max": 11, 
+            "min": 9, 
+            "unit": "C"
+        }, 
+        "weather": "tornado", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-13", 
+        "temperature": {
+            "max": 25, 
+            "min": -8, 
+            "unit": "C"
+        }, 
+        "weather": "foggy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-14", 
+        "temperature": {
+            "max": 28, 
+            "min": 19, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-15", 
+        "temperature": {
+            "max": 2, 
+            "min": -10, 
+            "unit": "C"
+        }, 
+        "weather": "mixed rain and hail", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-16", 
+        "temperature": {
+            "max": 35, 
+            "min": 10, 
+            "unit": "C"
+        }, 
+        "weather": "fair", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-17", 
+        "temperature": {
+            "max": -3, 
+            "min": -10, 
+            "unit": "C"
+        }, 
+        "weather": "freezing rain", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-18", 
+        "temperature": {
+            "max": 24, 
+            "min": 10, 
+            "unit": "C"
+        }, 
+        "weather": "windy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-19", 
+        "temperature": {
+            "max": 38, 
+            "min": -4, 
+            "unit": "C"
+        }, 
+        "weather": "clear", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-20", 
+        "temperature": {
+            "max": 28, 
+            "min": 18, 
+            "unit": "C"
+        }, 
+        "weather": "tornado", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-21", 
+        "temperature": {
+            "max": 21, 
+            "min": -6, 
+            "unit": "C"
+        }, 
+        "weather": "freezing rain", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-22", 
+        "temperature": {
+            "max": 10, 
+            "min": -8, 
+            "unit": "C"
+        }, 
+        "weather": "mostly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-23", 
+        "temperature": {
+            "max": 6, 
+            "min": -10, 
+            "unit": "C"
+        }, 
+        "weather": "cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-24", 
+        "temperature": {
+            "max": 4, 
+            "min": -3, 
+            "unit": "C"
+        }, 
+        "weather": "smoky", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-25", 
+        "temperature": {
+            "max": 29, 
+            "min": 8, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-26", 
+        "temperature": {
+            "max": 32, 
+            "min": 5, 
+            "unit": "C"
+        }, 
+        "weather": "scattered thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-27", 
+        "temperature": {
+            "max": 25, 
+            "min": 22, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-02-28", 
+        "temperature": {
+            "max": 38, 
+            "min": 13, 
+            "unit": "C"
+        }, 
+        "weather": "scattered thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-01", 
+        "temperature": {
+            "max": 32, 
+            "min": -4, 
+            "unit": "C"
+        }, 
+        "weather": "foggy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-02", 
+        "temperature": {
+            "max": 2, 
+            "min": -4, 
+            "unit": "C"
+        }, 
+        "weather": "mixed snow and sleet", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-03", 
+        "temperature": {
+            "max": 26, 
+            "min": 5, 
+            "unit": "C"
+        }, 
+        "weather": "clear", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-04", 
+        "temperature": {
+            "max": 38, 
+            "min": 22, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-05", 
+        "temperature": {
+            "max": 30, 
+            "min": 8, 
+            "unit": "C"
+        }, 
+        "weather": "foggy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-06", 
+        "temperature": {
+            "max": 34, 
+            "min": 25, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-07", 
+        "temperature": {
+            "max": 36, 
+            "min": -5, 
+            "unit": "C"
+        }, 
+        "weather": "smoky", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-08", 
+        "temperature": {
+            "max": 27, 
+            "min": -8, 
+            "unit": "C"
+        }, 
+        "weather": "hurricane", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-09", 
+        "temperature": {
+            "max": 13, 
+            "min": 8, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-10", 
+        "temperature": {
+            "max": 29, 
+            "min": 29, 
+            "unit": "C"
+        }, 
+        "weather": "tropical storm", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-11", 
+        "temperature": {
+            "max": 20, 
+            "min": 17, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-12", 
+        "temperature": {
+            "max": 5, 
+            "min": -1, 
+            "unit": "C"
+        }, 
+        "weather": "smoky", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-13", 
+        "temperature": {
+            "max": 35, 
+            "min": 18, 
+            "unit": "C"
+        }, 
+        "weather": "cold", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-14", 
+        "temperature": {
+            "max": 29, 
+            "min": 21, 
+            "unit": "C"
+        }, 
+        "weather": "partly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-15", 
+        "temperature": {
+            "max": 8, 
+            "min": 5, 
+            "unit": "C"
+        }, 
+        "weather": "clear", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-16", 
+        "temperature": {
+            "max": 25, 
+            "min": 8, 
+            "unit": "C"
+        }, 
+        "weather": "cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-17", 
+        "temperature": {
+            "max": 10, 
+            "min": 4, 
+            "unit": "C"
+        }, 
+        "weather": "thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-18", 
+        "temperature": {
+            "max": 18, 
+            "min": -4, 
+            "unit": "C"
+        }, 
+        "weather": "hail", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-19", 
+        "temperature": {
+            "max": 35, 
+            "min": 21, 
+            "unit": "C"
+        }, 
+        "weather": "cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-20", 
+        "temperature": {
+            "max": 34, 
+            "min": 34, 
+            "unit": "C"
+        }, 
+        "weather": "partly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-21", 
+        "temperature": {
+            "max": 22, 
+            "min": 10, 
+            "unit": "C"
+        }, 
+        "weather": "showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-22", 
+        "temperature": {
+            "max": 7, 
+            "min": 2, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-23", 
+        "temperature": {
+            "max": 37, 
+            "min": 31, 
+            "unit": "C"
+        }, 
+        "weather": "clear", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-24", 
+        "temperature": {
+            "max": 20, 
+            "min": 19, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-25", 
+        "temperature": {
+            "max": 19, 
+            "min": -5, 
+            "unit": "C"
+        }, 
+        "weather": "freezing rain", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-26", 
+        "temperature": {
+            "max": 20, 
+            "min": 12, 
+            "unit": "C"
+        }, 
+        "weather": "tornado", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-27", 
+        "temperature": {
+            "max": 0, 
+            "min": -3, 
+            "unit": "C"
+        }, 
+        "weather": "scattered thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-28", 
+        "temperature": {
+            "max": 25, 
+            "min": 3, 
+            "unit": "C"
+        }, 
+        "weather": "clear", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-29", 
+        "temperature": {
+            "max": 15, 
+            "min": 8, 
+            "unit": "C"
+        }, 
+        "weather": "thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-30", 
+        "temperature": {
+            "max": 6, 
+            "min": -2, 
+            "unit": "C"
+        }, 
+        "weather": "mixed rain and sleet", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-03-31", 
+        "temperature": {
+            "max": 4, 
+            "min": -3, 
+            "unit": "C"
+        }, 
+        "weather": "mixed snow and sleet", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-01", 
+        "temperature": {
+            "max": 21, 
+            "min": 9, 
+            "unit": "C"
+        }, 
+        "weather": "hurricane", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-02", 
+        "temperature": {
+            "max": 19, 
+            "min": 11, 
+            "unit": "C"
+        }, 
+        "weather": "hurricane", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-03", 
+        "temperature": {
+            "max": 29, 
+            "min": 2, 
+            "unit": "C"
+        }, 
+        "weather": "smoky", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-04", 
+        "temperature": {
+            "max": 39, 
+            "min": 18, 
+            "unit": "C"
+        }, 
+        "weather": "tropical storm", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-05", 
+        "temperature": {
+            "max": 30, 
+            "min": -8, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-06", 
+        "temperature": {
+            "max": 18, 
+            "min": -9, 
+            "unit": "C"
+        }, 
+        "weather": "mixed rain and sleet", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-07", 
+        "temperature": {
+            "max": 8, 
+            "min": -10, 
+            "unit": "C"
+        }, 
+        "weather": "mixed snow and sleet", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-08", 
+        "temperature": {
+            "max": 20, 
+            "min": 3, 
+            "unit": "C"
+        }, 
+        "weather": "smoky", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-09", 
+        "temperature": {
+            "max": 28, 
+            "min": 23, 
+            "unit": "C"
+        }, 
+        "weather": "fair", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-10", 
+        "temperature": {
+            "max": 39, 
+            "min": 19, 
+            "unit": "C"
+        }, 
+        "weather": "haze", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-11", 
+        "temperature": {
+            "max": 19, 
+            "min": 16, 
+            "unit": "C"
+        }, 
+        "weather": "thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-12", 
+        "temperature": {
+            "max": 38, 
+            "min": -7, 
+            "unit": "C"
+        }, 
+        "weather": "thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-13", 
+        "temperature": {
+            "max": 11, 
+            "min": 8, 
+            "unit": "C"
+        }, 
+        "weather": "foggy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-14", 
+        "temperature": {
+            "max": 11, 
+            "min": -9, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-15", 
+        "temperature": {
+            "max": 26, 
+            "min": 19, 
+            "unit": "C"
+        }, 
+        "weather": "snow showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-16", 
+        "temperature": {
+            "max": 5, 
+            "min": -1, 
+            "unit": "C"
+        }, 
+        "weather": "mixed snow and sleet", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-17", 
+        "temperature": {
+            "max": 33, 
+            "min": 1, 
+            "unit": "C"
+        }, 
+        "weather": "showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-18", 
+        "temperature": {
+            "max": 19, 
+            "min": -8, 
+            "unit": "C"
+        }, 
+        "weather": "cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-19", 
+        "temperature": {
+            "max": 26, 
+            "min": 16, 
+            "unit": "C"
+        }, 
+        "weather": "tropical storm", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-20", 
+        "temperature": {
+            "max": 40, 
+            "min": 16, 
+            "unit": "C"
+        }, 
+        "weather": "thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-21", 
+        "temperature": {
+            "max": 37, 
+            "min": 23, 
+            "unit": "C"
+        }, 
+        "weather": "tropical storm", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-22", 
+        "temperature": {
+            "max": 22, 
+            "min": 16, 
+            "unit": "C"
+        }, 
+        "weather": "blustery", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-23", 
+        "temperature": {
+            "max": 32, 
+            "min": 28, 
+            "unit": "C"
+        }, 
+        "weather": "scattered thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-24", 
+        "temperature": {
+            "max": 5, 
+            "min": -3, 
+            "unit": "C"
+        }, 
+        "weather": "hail", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-25", 
+        "temperature": {
+            "max": 33, 
+            "min": 25, 
+            "unit": "C"
+        }, 
+        "weather": "clear", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-26", 
+        "temperature": {
+            "max": 26, 
+            "min": -2, 
+            "unit": "C"
+        }, 
+        "weather": "hurricane", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-27", 
+        "temperature": {
+            "max": 23, 
+            "min": -2, 
+            "unit": "C"
+        }, 
+        "weather": "tornado", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-28", 
+        "temperature": {
+            "max": 33, 
+            "min": 25, 
+            "unit": "C"
+        }, 
+        "weather": "clear", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-29", 
+        "temperature": {
+            "max": 37, 
+            "min": 12, 
+            "unit": "C"
+        }, 
+        "weather": "showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-04-30", 
+        "temperature": {
+            "max": 15, 
+            "min": -9, 
+            "unit": "C"
+        }, 
+        "weather": "hurricane", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-01", 
+        "temperature": {
+            "max": 13, 
+            "min": 11, 
+            "unit": "C"
+        }, 
+        "weather": "cold", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-02", 
+        "temperature": {
+            "max": 28, 
+            "min": 10, 
+            "unit": "C"
+        }, 
+        "weather": "thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-03", 
+        "temperature": {
+            "max": 2, 
+            "min": -6, 
+            "unit": "C"
+        }, 
+        "weather": "mostly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-04", 
+        "temperature": {
+            "max": 34, 
+            "min": -6, 
+            "unit": "C"
+        }, 
+        "weather": "scattered thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-05", 
+        "temperature": {
+            "max": 30, 
+            "min": 1, 
+            "unit": "C"
+        }, 
+        "weather": "thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-06", 
+        "temperature": {
+            "max": 30, 
+            "min": -3, 
+            "unit": "C"
+        }, 
+        "weather": "blustery", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-07", 
+        "temperature": {
+            "max": -6, 
+            "min": -9, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-08", 
+        "temperature": {
+            "max": 34, 
+            "min": 10, 
+            "unit": "C"
+        }, 
+        "weather": "showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-09", 
+        "temperature": {
+            "max": 7, 
+            "min": 2, 
+            "unit": "C"
+        }, 
+        "weather": "haze", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-10", 
+        "temperature": {
+            "max": 21, 
+            "min": -1, 
+            "unit": "C"
+        }, 
+        "weather": "thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-11", 
+        "temperature": {
+            "max": 27, 
+            "min": 10, 
+            "unit": "C"
+        }, 
+        "weather": "windy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-12", 
+        "temperature": {
+            "max": 33, 
+            "min": 31, 
+            "unit": "C"
+        }, 
+        "weather": "clear", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-13", 
+        "temperature": {
+            "max": 12, 
+            "min": -8, 
+            "unit": "C"
+        }, 
+        "weather": "showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-14", 
+        "temperature": {
+            "max": 19, 
+            "min": -7, 
+            "unit": "C"
+        }, 
+        "weather": "fair", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-15", 
+        "temperature": {
+            "max": 29, 
+            "min": -10, 
+            "unit": "C"
+        }, 
+        "weather": "thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-16", 
+        "temperature": {
+            "max": 36, 
+            "min": 11, 
+            "unit": "C"
+        }, 
+        "weather": "cold", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-17", 
+        "temperature": {
+            "max": 28, 
+            "min": 14, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-18", 
+        "temperature": {
+            "max": 40, 
+            "min": 11, 
+            "unit": "C"
+        }, 
+        "weather": "severe thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-19", 
+        "temperature": {
+            "max": 14, 
+            "min": 8, 
+            "unit": "C"
+        }, 
+        "weather": "blustery", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-20", 
+        "temperature": {
+            "max": 21, 
+            "min": -8, 
+            "unit": "C"
+        }, 
+        "weather": "windy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-21", 
+        "temperature": {
+            "max": 8, 
+            "min": 3, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-22", 
+        "temperature": {
+            "max": 9, 
+            "min": 1, 
+            "unit": "C"
+        }, 
+        "weather": "haze", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-23", 
+        "temperature": {
+            "max": 27, 
+            "min": 13, 
+            "unit": "C"
+        }, 
+        "weather": "hurricane", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-24", 
+        "temperature": {
+            "max": 8, 
+            "min": -3, 
+            "unit": "C"
+        }, 
+        "weather": "haze", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-25", 
+        "temperature": {
+            "max": 36, 
+            "min": 27, 
+            "unit": "C"
+        }, 
+        "weather": "showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-26", 
+        "temperature": {
+            "max": 36, 
+            "min": 20, 
+            "unit": "C"
+        }, 
+        "weather": "fair", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-27", 
+        "temperature": {
+            "max": 12, 
+            "min": -2, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-28", 
+        "temperature": {
+            "max": 30, 
+            "min": -8, 
+            "unit": "C"
+        }, 
+        "weather": "blustery", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-29", 
+        "temperature": {
+            "max": 34, 
+            "min": 6, 
+            "unit": "C"
+        }, 
+        "weather": "hurricane", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-30", 
+        "temperature": {
+            "max": 15, 
+            "min": 7, 
+            "unit": "C"
+        }, 
+        "weather": "thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-05-31", 
+        "temperature": {
+            "max": 11, 
+            "min": 5, 
+            "unit": "C"
+        }, 
+        "weather": "tornado", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-01", 
+        "temperature": {
+            "max": 35, 
+            "min": 29, 
+            "unit": "C"
+        }, 
+        "weather": "tropical storm", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-02", 
+        "temperature": {
+            "max": 32, 
+            "min": 6, 
+            "unit": "C"
+        }, 
+        "weather": "mostly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-03", 
+        "temperature": {
+            "max": 16, 
+            "min": -2, 
+            "unit": "C"
+        }, 
+        "weather": "windy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-04", 
+        "temperature": {
+            "max": -6, 
+            "min": -7, 
+            "unit": "C"
+        }, 
+        "weather": "thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-05", 
+        "temperature": {
+            "max": 33, 
+            "min": -10, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-06", 
+        "temperature": {
+            "max": 32, 
+            "min": 20, 
+            "unit": "C"
+        }, 
+        "weather": "thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-07", 
+        "temperature": {
+            "max": 39, 
+            "min": 7, 
+            "unit": "C"
+        }, 
+        "weather": "showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-08", 
+        "temperature": {
+            "max": 22, 
+            "min": -4, 
+            "unit": "C"
+        }, 
+        "weather": "freezing rain", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-09", 
+        "temperature": {
+            "max": 13, 
+            "min": -8, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-10", 
+        "temperature": {
+            "max": 35, 
+            "min": 35, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-11", 
+        "temperature": {
+            "max": 40, 
+            "min": 5, 
+            "unit": "C"
+        }, 
+        "weather": "tornado", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-12", 
+        "temperature": {
+            "max": 22, 
+            "min": 3, 
+            "unit": "C"
+        }, 
+        "weather": "showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-13", 
+        "temperature": {
+            "max": 31, 
+            "min": 15, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-14", 
+        "temperature": {
+            "max": 17, 
+            "min": 13, 
+            "unit": "C"
+        }, 
+        "weather": "foggy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-15", 
+        "temperature": {
+            "max": 16, 
+            "min": 4, 
+            "unit": "C"
+        }, 
+        "weather": "mostly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-16", 
+        "temperature": {
+            "max": 24, 
+            "min": 7, 
+            "unit": "C"
+        }, 
+        "weather": "blustery", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-17", 
+        "temperature": {
+            "max": 40, 
+            "min": 39, 
+            "unit": "C"
+        }, 
+        "weather": "fair", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-18", 
+        "temperature": {
+            "max": 24, 
+            "min": -3, 
+            "unit": "C"
+        }, 
+        "weather": "cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-19", 
+        "temperature": {
+            "max": 7, 
+            "min": 4, 
+            "unit": "C"
+        }, 
+        "weather": "hurricane", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-20", 
+        "temperature": {
+            "max": 29, 
+            "min": -1, 
+            "unit": "C"
+        }, 
+        "weather": "smoky", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-21", 
+        "temperature": {
+            "max": 36, 
+            "min": 16, 
+            "unit": "C"
+        }, 
+        "weather": "hurricane", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-22", 
+        "temperature": {
+            "max": 37, 
+            "min": 10, 
+            "unit": "C"
+        }, 
+        "weather": "showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-23", 
+        "temperature": {
+            "max": 21, 
+            "min": 2, 
+            "unit": "C"
+        }, 
+        "weather": "scattered thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-24", 
+        "temperature": {
+            "max": 29, 
+            "min": 1, 
+            "unit": "C"
+        }, 
+        "weather": "tornado", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-25", 
+        "temperature": {
+            "max": 5, 
+            "min": -9, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-26", 
+        "temperature": {
+            "max": 28, 
+            "min": 2, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-27", 
+        "temperature": {
+            "max": 23, 
+            "min": 16, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-28", 
+        "temperature": {
+            "max": 19, 
+            "min": 12, 
+            "unit": "C"
+        }, 
+        "weather": "haze", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-29", 
+        "temperature": {
+            "max": 17, 
+            "min": 2, 
+            "unit": "C"
+        }, 
+        "weather": "cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-06-30", 
+        "temperature": {
+            "max": 40, 
+            "min": 29, 
+            "unit": "C"
+        }, 
+        "weather": "cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-01", 
+        "temperature": {
+            "max": 21, 
+            "min": 6, 
+            "unit": "C"
+        }, 
+        "weather": "severe thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-02", 
+        "temperature": {
+            "max": 14, 
+            "min": 1, 
+            "unit": "C"
+        }, 
+        "weather": "cold", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-03", 
+        "temperature": {
+            "max": 24, 
+            "min": 19, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-04", 
+        "temperature": {
+            "max": 8, 
+            "min": 2, 
+            "unit": "C"
+        }, 
+        "weather": "dust", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-05", 
+        "temperature": {
+            "max": 20, 
+            "min": 15, 
+            "unit": "C"
+        }, 
+        "weather": "snow showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-06", 
+        "temperature": {
+            "max": 32, 
+            "min": 27, 
+            "unit": "C"
+        }, 
+        "weather": "foggy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-07", 
+        "temperature": {
+            "max": 18, 
+            "min": -4, 
+            "unit": "C"
+        }, 
+        "weather": "drizzle", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-08", 
+        "temperature": {
+            "max": 27, 
+            "min": -8, 
+            "unit": "C"
+        }, 
+        "weather": "cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-09", 
+        "temperature": {
+            "max": 22, 
+            "min": 11, 
+            "unit": "C"
+        }, 
+        "weather": "mostly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-10", 
+        "temperature": {
+            "max": 35, 
+            "min": 22, 
+            "unit": "C"
+        }, 
+        "weather": "tropical storm", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-11", 
+        "temperature": {
+            "max": 11, 
+            "min": -5, 
+            "unit": "C"
+        }, 
+        "weather": "mixed rain and sleet", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-12", 
+        "temperature": {
+            "max": 24, 
+            "min": 21, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-13", 
+        "temperature": {
+            "max": 20, 
+            "min": -1, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-14", 
+        "temperature": {
+            "max": 14, 
+            "min": 12, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-15", 
+        "temperature": {
+            "max": 4, 
+            "min": -2, 
+            "unit": "C"
+        }, 
+        "weather": "mixed rain and snow", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-16", 
+        "temperature": {
+            "max": 29, 
+            "min": 21, 
+            "unit": "C"
+        }, 
+        "weather": "foggy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-17", 
+        "temperature": {
+            "max": 4, 
+            "min": -8, 
+            "unit": "C"
+        }, 
+        "weather": "mostly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-18", 
+        "temperature": {
+            "max": 21, 
+            "min": -7, 
+            "unit": "C"
+        }, 
+        "weather": "clear", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-19", 
+        "temperature": {
+            "max": 28, 
+            "min": 17, 
+            "unit": "C"
+        }, 
+        "weather": "dust", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-20", 
+        "temperature": {
+            "max": 30, 
+            "min": 14, 
+            "unit": "C"
+        }, 
+        "weather": "hurricane", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-21", 
+        "temperature": {
+            "max": 24, 
+            "min": 6, 
+            "unit": "C"
+        }, 
+        "weather": "cold", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-22", 
+        "temperature": {
+            "max": 7, 
+            "min": 6, 
+            "unit": "C"
+        }, 
+        "weather": "mostly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-23", 
+        "temperature": {
+            "max": 25, 
+            "min": -5, 
+            "unit": "C"
+        }, 
+        "weather": "smoky", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-24", 
+        "temperature": {
+            "max": 32, 
+            "min": 8, 
+            "unit": "C"
+        }, 
+        "weather": "cold", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-25", 
+        "temperature": {
+            "max": 31, 
+            "min": 24, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-26", 
+        "temperature": {
+            "max": -7, 
+            "min": -7, 
+            "unit": "C"
+        }, 
+        "weather": "mostly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-27", 
+        "temperature": {
+            "max": 22, 
+            "min": 12, 
+            "unit": "C"
+        }, 
+        "weather": "cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-28", 
+        "temperature": {
+            "max": 11, 
+            "min": 8, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-29", 
+        "temperature": {
+            "max": 37, 
+            "min": 13, 
+            "unit": "C"
+        }, 
+        "weather": "tornado", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-30", 
+        "temperature": {
+            "max": 13, 
+            "min": 8, 
+            "unit": "C"
+        }, 
+        "weather": "haze", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-07-31", 
+        "temperature": {
+            "max": 29, 
+            "min": 1, 
+            "unit": "C"
+        }, 
+        "weather": "foggy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-01", 
+        "temperature": {
+            "max": 10, 
+            "min": -7, 
+            "unit": "C"
+        }, 
+        "weather": "mixed rain and hail", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-02", 
+        "temperature": {
+            "max": 5, 
+            "min": -9, 
+            "unit": "C"
+        }, 
+        "weather": "hail", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-03", 
+        "temperature": {
+            "max": 19, 
+            "min": 3, 
+            "unit": "C"
+        }, 
+        "weather": "mostly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-04", 
+        "temperature": {
+            "max": 9, 
+            "min": -6, 
+            "unit": "C"
+        }, 
+        "weather": "mixed rain and sleet", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-05", 
+        "temperature": {
+            "max": 33, 
+            "min": 19, 
+            "unit": "C"
+        }, 
+        "weather": "thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-06", 
+        "temperature": {
+            "max": 38, 
+            "min": 32, 
+            "unit": "C"
+        }, 
+        "weather": "partly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-07", 
+        "temperature": {
+            "max": 8, 
+            "min": 0, 
+            "unit": "C"
+        }, 
+        "weather": "fair", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-08", 
+        "temperature": {
+            "max": 14, 
+            "min": -9, 
+            "unit": "C"
+        }, 
+        "weather": "drizzle", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-09", 
+        "temperature": {
+            "max": 40, 
+            "min": 5, 
+            "unit": "C"
+        }, 
+        "weather": "cold", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-10", 
+        "temperature": {
+            "max": 33, 
+            "min": 10, 
+            "unit": "C"
+        }, 
+        "weather": "foggy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-11", 
+        "temperature": {
+            "max": 36, 
+            "min": 17, 
+            "unit": "C"
+        }, 
+        "weather": "thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-12", 
+        "temperature": {
+            "max": 34, 
+            "min": 6, 
+            "unit": "C"
+        }, 
+        "weather": "clear", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-13", 
+        "temperature": {
+            "max": 23, 
+            "min": 19, 
+            "unit": "C"
+        }, 
+        "weather": "partly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-14", 
+        "temperature": {
+            "max": 22, 
+            "min": 14, 
+            "unit": "C"
+        }, 
+        "weather": "showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-15", 
+        "temperature": {
+            "max": 35, 
+            "min": 3, 
+            "unit": "C"
+        }, 
+        "weather": "cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-16", 
+        "temperature": {
+            "max": 29, 
+            "min": -6, 
+            "unit": "C"
+        }, 
+        "weather": "dust", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-17", 
+        "temperature": {
+            "max": 6, 
+            "min": 0, 
+            "unit": "C"
+        }, 
+        "weather": "clear", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-18", 
+        "temperature": {
+            "max": 15, 
+            "min": -5, 
+            "unit": "C"
+        }, 
+        "weather": "dust", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-19", 
+        "temperature": {
+            "max": 36, 
+            "min": 25, 
+            "unit": "C"
+        }, 
+        "weather": "fair", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-20", 
+        "temperature": {
+            "max": 28, 
+            "min": 12, 
+            "unit": "C"
+        }, 
+        "weather": "partly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-21", 
+        "temperature": {
+            "max": 20, 
+            "min": 10, 
+            "unit": "C"
+        }, 
+        "weather": "fair", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-22", 
+        "temperature": {
+            "max": -1, 
+            "min": -3, 
+            "unit": "C"
+        }, 
+        "weather": "snow", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-23", 
+        "temperature": {
+            "max": 35, 
+            "min": 0, 
+            "unit": "C"
+        }, 
+        "weather": "mixed rain and hail", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-24", 
+        "temperature": {
+            "max": 12, 
+            "min": 7, 
+            "unit": "C"
+        }, 
+        "weather": "foggy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-25", 
+        "temperature": {
+            "max": 0, 
+            "min": -6, 
+            "unit": "C"
+        }, 
+        "weather": "showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-26", 
+        "temperature": {
+            "max": -5, 
+            "min": -9, 
+            "unit": "C"
+        }, 
+        "weather": "fair", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-27", 
+        "temperature": {
+            "max": 5, 
+            "min": -9, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-28", 
+        "temperature": {
+            "max": 17, 
+            "min": -7, 
+            "unit": "C"
+        }, 
+        "weather": "blustery", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-29", 
+        "temperature": {
+            "max": 9, 
+            "min": -8, 
+            "unit": "C"
+        }, 
+        "weather": "foggy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-30", 
+        "temperature": {
+            "max": 28, 
+            "min": 21, 
+            "unit": "C"
+        }, 
+        "weather": "partly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-08-31", 
+        "temperature": {
+            "max": 33, 
+            "min": 25, 
+            "unit": "C"
+        }, 
+        "weather": "clear", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-01", 
+        "temperature": {
+            "max": 24, 
+            "min": 17, 
+            "unit": "C"
+        }, 
+        "weather": "fair", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-02", 
+        "temperature": {
+            "max": -2, 
+            "min": -10, 
+            "unit": "C"
+        }, 
+        "weather": "freezing rain", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-03", 
+        "temperature": {
+            "max": 0, 
+            "min": -3, 
+            "unit": "C"
+        }, 
+        "weather": "sleet", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-04", 
+        "temperature": {
+            "max": 33, 
+            "min": -8, 
+            "unit": "C"
+        }, 
+        "weather": "dust", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-05", 
+        "temperature": {
+            "max": 32, 
+            "min": 19, 
+            "unit": "C"
+        }, 
+        "weather": "smoky", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-06", 
+        "temperature": {
+            "max": 39, 
+            "min": -5, 
+            "unit": "C"
+        }, 
+        "weather": "tornado", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-07", 
+        "temperature": {
+            "max": 24, 
+            "min": -10, 
+            "unit": "C"
+        }, 
+        "weather": "scattered thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-08", 
+        "temperature": {
+            "max": 33, 
+            "min": 19, 
+            "unit": "C"
+        }, 
+        "weather": "scattered thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-09", 
+        "temperature": {
+            "max": 20, 
+            "min": -2, 
+            "unit": "C"
+        }, 
+        "weather": "mixed snow and sleet", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-10", 
+        "temperature": {
+            "max": 31, 
+            "min": -8, 
+            "unit": "C"
+        }, 
+        "weather": "showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-11", 
+        "temperature": {
+            "max": 17, 
+            "min": 5, 
+            "unit": "C"
+        }, 
+        "weather": "cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-12", 
+        "temperature": {
+            "max": 38, 
+            "min": 22, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-13", 
+        "temperature": {
+            "max": 13, 
+            "min": 7, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-14", 
+        "temperature": {
+            "max": 22, 
+            "min": 7, 
+            "unit": "C"
+        }, 
+        "weather": "smoky", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-15", 
+        "temperature": {
+            "max": 31, 
+            "min": 26, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-16", 
+        "temperature": {
+            "max": 15, 
+            "min": 6, 
+            "unit": "C"
+        }, 
+        "weather": "severe thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-17", 
+        "temperature": {
+            "max": 32, 
+            "min": -2, 
+            "unit": "C"
+        }, 
+        "weather": "mixed snow and sleet", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-18", 
+        "temperature": {
+            "max": 33, 
+            "min": -5, 
+            "unit": "C"
+        }, 
+        "weather": "hail", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-19", 
+        "temperature": {
+            "max": 2, 
+            "min": -10, 
+            "unit": "C"
+        }, 
+        "weather": "mixed snow and sleet", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-20", 
+        "temperature": {
+            "max": 14, 
+            "min": 7, 
+            "unit": "C"
+        }, 
+        "weather": "foggy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-21", 
+        "temperature": {
+            "max": 34, 
+            "min": 1, 
+            "unit": "C"
+        }, 
+        "weather": "thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-22", 
+        "temperature": {
+            "max": -1, 
+            "min": -7, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-23", 
+        "temperature": {
+            "max": 33, 
+            "min": 32, 
+            "unit": "C"
+        }, 
+        "weather": "clear", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-24", 
+        "temperature": {
+            "max": 15, 
+            "min": -8, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-25", 
+        "temperature": {
+            "max": 15, 
+            "min": -5, 
+            "unit": "C"
+        }, 
+        "weather": "foggy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-26", 
+        "temperature": {
+            "max": 4, 
+            "min": -9, 
+            "unit": "C"
+        }, 
+        "weather": "tornado", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-27", 
+        "temperature": {
+            "max": 31, 
+            "min": 21, 
+            "unit": "C"
+        }, 
+        "weather": "windy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-28", 
+        "temperature": {
+            "max": 23, 
+            "min": 3, 
+            "unit": "C"
+        }, 
+        "weather": "mostly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-29", 
+        "temperature": {
+            "max": 15, 
+            "min": -2, 
+            "unit": "C"
+        }, 
+        "weather": "cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-09-30", 
+        "temperature": {
+            "max": 18, 
+            "min": 1, 
+            "unit": "C"
+        }, 
+        "weather": "mixed rain and hail", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-01", 
+        "temperature": {
+            "max": -1, 
+            "min": -5, 
+            "unit": "C"
+        }, 
+        "weather": "cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-02", 
+        "temperature": {
+            "max": 13, 
+            "min": 8, 
+            "unit": "C"
+        }, 
+        "weather": "hurricane", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-03", 
+        "temperature": {
+            "max": 20, 
+            "min": -7, 
+            "unit": "C"
+        }, 
+        "weather": "snow", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-04", 
+        "temperature": {
+            "max": 29, 
+            "min": 28, 
+            "unit": "C"
+        }, 
+        "weather": "foggy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-05", 
+        "temperature": {
+            "max": 37, 
+            "min": 19, 
+            "unit": "C"
+        }, 
+        "weather": "scattered thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-06", 
+        "temperature": {
+            "max": 15, 
+            "min": 6, 
+            "unit": "C"
+        }, 
+        "weather": "blustery", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-07", 
+        "temperature": {
+            "max": 35, 
+            "min": -6, 
+            "unit": "C"
+        }, 
+        "weather": "blustery", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-08", 
+        "temperature": {
+            "max": 9, 
+            "min": -1, 
+            "unit": "C"
+        }, 
+        "weather": "cold", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-09", 
+        "temperature": {
+            "max": 35, 
+            "min": -1, 
+            "unit": "C"
+        }, 
+        "weather": "mixed rain and hail", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-10", 
+        "temperature": {
+            "max": 7, 
+            "min": -3, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-11", 
+        "temperature": {
+            "max": 1, 
+            "min": 1, 
+            "unit": "C"
+        }, 
+        "weather": "windy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-12", 
+        "temperature": {
+            "max": 25, 
+            "min": 9, 
+            "unit": "C"
+        }, 
+        "weather": "cold", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-13", 
+        "temperature": {
+            "max": 33, 
+            "min": 11, 
+            "unit": "C"
+        }, 
+        "weather": "showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-14", 
+        "temperature": {
+            "max": 20, 
+            "min": -4, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-15", 
+        "temperature": {
+            "max": 29, 
+            "min": -6, 
+            "unit": "C"
+        }, 
+        "weather": "snow showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-16", 
+        "temperature": {
+            "max": 33, 
+            "min": 9, 
+            "unit": "C"
+        }, 
+        "weather": "scattered thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-17", 
+        "temperature": {
+            "max": 20, 
+            "min": 8, 
+            "unit": "C"
+        }, 
+        "weather": "thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-18", 
+        "temperature": {
+            "max": 33, 
+            "min": -1, 
+            "unit": "C"
+        }, 
+        "weather": "freezing rain", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-19", 
+        "temperature": {
+            "max": -1, 
+            "min": -7, 
+            "unit": "C"
+        }, 
+        "weather": "dust", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-20", 
+        "temperature": {
+            "max": 16, 
+            "min": 4, 
+            "unit": "C"
+        }, 
+        "weather": "mostly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-21", 
+        "temperature": {
+            "max": 14, 
+            "min": -10, 
+            "unit": "C"
+        }, 
+        "weather": "snow", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-22", 
+        "temperature": {
+            "max": 23, 
+            "min": -3, 
+            "unit": "C"
+        }, 
+        "weather": "mixed rain and sleet", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-23", 
+        "temperature": {
+            "max": 31, 
+            "min": 20, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-24", 
+        "temperature": {
+            "max": 36, 
+            "min": -10, 
+            "unit": "C"
+        }, 
+        "weather": "snow showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-25", 
+        "temperature": {
+            "max": 16, 
+            "min": -9, 
+            "unit": "C"
+        }, 
+        "weather": "severe thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-26", 
+        "temperature": {
+            "max": 7, 
+            "min": -4, 
+            "unit": "C"
+        }, 
+        "weather": "hurricane", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-27", 
+        "temperature": {
+            "max": 40, 
+            "min": 25, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-28", 
+        "temperature": {
+            "max": 29, 
+            "min": 18, 
+            "unit": "C"
+        }, 
+        "weather": "clear", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-29", 
+        "temperature": {
+            "max": 38, 
+            "min": -1, 
+            "unit": "C"
+        }, 
+        "weather": "fair", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-30", 
+        "temperature": {
+            "max": 34, 
+            "min": 15, 
+            "unit": "C"
+        }, 
+        "weather": "smoky", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-10-31", 
+        "temperature": {
+            "max": 25, 
+            "min": 5, 
+            "unit": "C"
+        }, 
+        "weather": "scattered thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-01", 
+        "temperature": {
+            "max": 35, 
+            "min": 34, 
+            "unit": "C"
+        }, 
+        "weather": "hot", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-02", 
+        "temperature": {
+            "max": 36, 
+            "min": 33, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-03", 
+        "temperature": {
+            "max": 11, 
+            "min": 9, 
+            "unit": "C"
+        }, 
+        "weather": "fair", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-04", 
+        "temperature": {
+            "max": 13, 
+            "min": -3, 
+            "unit": "C"
+        }, 
+        "weather": "freezing rain", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-05", 
+        "temperature": {
+            "max": 35, 
+            "min": -9, 
+            "unit": "C"
+        }, 
+        "weather": "partly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-06", 
+        "temperature": {
+            "max": 12, 
+            "min": 7, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-07", 
+        "temperature": {
+            "max": 27, 
+            "min": 16, 
+            "unit": "C"
+        }, 
+        "weather": "tornado", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-08", 
+        "temperature": {
+            "max": 39, 
+            "min": 31, 
+            "unit": "C"
+        }, 
+        "weather": "fair", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-09", 
+        "temperature": {
+            "max": 31, 
+            "min": -4, 
+            "unit": "C"
+        }, 
+        "weather": "severe thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-10", 
+        "temperature": {
+            "max": 13, 
+            "min": 7, 
+            "unit": "C"
+        }, 
+        "weather": "dust", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-11", 
+        "temperature": {
+            "max": 36, 
+            "min": 27, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-12", 
+        "temperature": {
+            "max": 36, 
+            "min": 4, 
+            "unit": "C"
+        }, 
+        "weather": "thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-13", 
+        "temperature": {
+            "max": 4, 
+            "min": -3, 
+            "unit": "C"
+        }, 
+        "weather": "sleet", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-14", 
+        "temperature": {
+            "max": 25, 
+            "min": 18, 
+            "unit": "C"
+        }, 
+        "weather": "snow showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-15", 
+        "temperature": {
+            "max": 40, 
+            "min": -4, 
+            "unit": "C"
+        }, 
+        "weather": "mixed rain and hail", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-16", 
+        "temperature": {
+            "max": 32, 
+            "min": 26, 
+            "unit": "C"
+        }, 
+        "weather": "fair", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-17", 
+        "temperature": {
+            "max": 32, 
+            "min": 17, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-18", 
+        "temperature": {
+            "max": 26, 
+            "min": 22, 
+            "unit": "C"
+        }, 
+        "weather": "windy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-19", 
+        "temperature": {
+            "max": 37, 
+            "min": 13, 
+            "unit": "C"
+        }, 
+        "weather": "thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-20", 
+        "temperature": {
+            "max": 7, 
+            "min": -10, 
+            "unit": "C"
+        }, 
+        "weather": "fair", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-21", 
+        "temperature": {
+            "max": 19, 
+            "min": 15, 
+            "unit": "C"
+        }, 
+        "weather": "thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-22", 
+        "temperature": {
+            "max": 19, 
+            "min": 16, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-23", 
+        "temperature": {
+            "max": 31, 
+            "min": -7, 
+            "unit": "C"
+        }, 
+        "weather": "smoky", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-24", 
+        "temperature": {
+            "max": 33, 
+            "min": 30, 
+            "unit": "C"
+        }, 
+        "weather": "hot", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-25", 
+        "temperature": {
+            "max": 40, 
+            "min": -2, 
+            "unit": "C"
+        }, 
+        "weather": "tornado", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-26", 
+        "temperature": {
+            "max": 39, 
+            "min": -2, 
+            "unit": "C"
+        }, 
+        "weather": "thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-27", 
+        "temperature": {
+            "max": 19, 
+            "min": 11, 
+            "unit": "C"
+        }, 
+        "weather": "tropical storm", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-28", 
+        "temperature": {
+            "max": 31, 
+            "min": 19, 
+            "unit": "C"
+        }, 
+        "weather": "mostly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-29", 
+        "temperature": {
+            "max": 36, 
+            "min": 19, 
+            "unit": "C"
+        }, 
+        "weather": "clear", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-11-30", 
+        "temperature": {
+            "max": 31, 
+            "min": 13, 
+            "unit": "C"
+        }, 
+        "weather": "windy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-01", 
+        "temperature": {
+            "max": 32, 
+            "min": 30, 
+            "unit": "C"
+        }, 
+        "weather": "scattered showers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-02", 
+        "temperature": {
+            "max": 34, 
+            "min": 3, 
+            "unit": "C"
+        }, 
+        "weather": "mostly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-03", 
+        "temperature": {
+            "max": 7, 
+            "min": 6, 
+            "unit": "C"
+        }, 
+        "weather": "cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-04", 
+        "temperature": {
+            "max": 7, 
+            "min": 7, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-05", 
+        "temperature": {
+            "max": 34, 
+            "min": -3, 
+            "unit": "C"
+        }, 
+        "weather": "hurricane", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-06", 
+        "temperature": {
+            "max": 34, 
+            "min": 1, 
+            "unit": "C"
+        }, 
+        "weather": "severe thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-07", 
+        "temperature": {
+            "max": 29, 
+            "min": -8, 
+            "unit": "C"
+        }, 
+        "weather": "cold", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-08", 
+        "temperature": {
+            "max": 1, 
+            "min": -1, 
+            "unit": "C"
+        }, 
+        "weather": "mixed rain and sleet", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-09", 
+        "temperature": {
+            "max": 20, 
+            "min": 6, 
+            "unit": "C"
+        }, 
+        "weather": "windy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-10", 
+        "temperature": {
+            "max": 35, 
+            "min": 2, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-11", 
+        "temperature": {
+            "max": 12, 
+            "min": -9, 
+            "unit": "C"
+        }, 
+        "weather": "sleet", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-12", 
+        "temperature": {
+            "max": 21, 
+            "min": -1, 
+            "unit": "C"
+        }, 
+        "weather": "fair", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-13", 
+        "temperature": {
+            "max": 23, 
+            "min": -8, 
+            "unit": "C"
+        }, 
+        "weather": "mostly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-14", 
+        "temperature": {
+            "max": 38, 
+            "min": 21, 
+            "unit": "C"
+        }, 
+        "weather": "foggy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-15", 
+        "temperature": {
+            "max": 21, 
+            "min": 19, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-16", 
+        "temperature": {
+            "max": 38, 
+            "min": 3, 
+            "unit": "C"
+        }, 
+        "weather": "isolated thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-17", 
+        "temperature": {
+            "max": 37, 
+            "min": -4, 
+            "unit": "C"
+        }, 
+        "weather": "haze", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-18", 
+        "temperature": {
+            "max": 40, 
+            "min": 16, 
+            "unit": "C"
+        }, 
+        "weather": "thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-19", 
+        "temperature": {
+            "max": 6, 
+            "min": -5, 
+            "unit": "C"
+        }, 
+        "weather": "haze", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-20", 
+        "temperature": {
+            "max": 38, 
+            "min": 11, 
+            "unit": "C"
+        }, 
+        "weather": "thundershowers", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-21", 
+        "temperature": {
+            "max": 31, 
+            "min": -2, 
+            "unit": "C"
+        }, 
+        "weather": "drizzle", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-22", 
+        "temperature": {
+            "max": 37, 
+            "min": 10, 
+            "unit": "C"
+        }, 
+        "weather": "dust", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-23", 
+        "temperature": {
+            "max": 16, 
+            "min": 9, 
+            "unit": "C"
+        }, 
+        "weather": "foggy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-24", 
+        "temperature": {
+            "max": 26, 
+            "min": -5, 
+            "unit": "C"
+        }, 
+        "weather": "mixed rain and sleet", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-25", 
+        "temperature": {
+            "max": 33, 
+            "min": 1, 
+            "unit": "C"
+        }, 
+        "weather": "tornado", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-26", 
+        "temperature": {
+            "max": 13, 
+            "min": 4, 
+            "unit": "C"
+        }, 
+        "weather": "partly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-27", 
+        "temperature": {
+            "max": 38, 
+            "min": 29, 
+            "unit": "C"
+        }, 
+        "weather": "partly cloudy", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-28", 
+        "temperature": {
+            "max": 23, 
+            "min": 20, 
+            "unit": "C"
+        }, 
+        "weather": "hurricane", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-29", 
+        "temperature": {
+            "max": 39, 
+            "min": 21, 
+            "unit": "C"
+        }, 
+        "weather": "thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-30", 
+        "temperature": {
+            "max": 14, 
+            "min": -10, 
+            "unit": "C"
+        }, 
+        "weather": "thunderstorms", 
+        "woeid": "455827"
+    }, 
+    {
+        "date": "<% url.2 %>-12-31", 
+        "temperature": {
+            "max": 32, 
+            "min": 10, 
+            "unit": "C"
+        }, 
+        "weather": "fair", 
+        "woeid": "455827"
+    }
+]

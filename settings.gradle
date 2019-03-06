@@ -1,0 +1,1 @@
+include ':app', ':data', ':presentation', ':domain', ':data_remote', ':data_local', ':tests_common'

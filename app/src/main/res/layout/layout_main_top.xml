@@ -1,0 +1,77 @@
+<com.google.android.material.card.MaterialCardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cvCitySearch"
+    style="@style/main_card"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/general_small_space">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/main_label_city"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <AutoCompleteTextView
+            android:id="@+id/actvCity"
+            style="@style/main_autocomplete"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableEnd="@drawable/ic_location_city"
+            android:hint="@string/hint_search_city" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="@string/main_label_days"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/general_small_space">
+
+            <Spinner
+                android:id="@+id/spnDays"
+                android:layout_width="@dimen/main_spinner_width"
+                android:layout_height="wrap_content"
+                android:dropDownWidth="@dimen/main_spinner_dropdown_width"
+                android:spinnerMode="dropdown" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:layout_marginEnd="@dimen/general_smallest_space"
+                android:src="@drawable/ic_date_range" />
+        </FrameLayout>
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/general_small_space"
+            android:text="@string/main_label_weather_type"
+            android:textColor="@color/colorPrimaryDark" />
+
+        <AutoCompleteTextView
+            android:id="@+id/actvWeatherType"
+            style="@style/main_autocomplete"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:drawableEnd="@drawable/ic_filter_drama"
+            android:hint="@string/hint_weather_type" />
+
+        <com.google.android.material.chip.ChipGroup
+            android:id="@+id/cgWeatherType"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:animateLayoutChanges="true" />
+    </LinearLayout>
+</com.google.android.material.card.MaterialCardView>

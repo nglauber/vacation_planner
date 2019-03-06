@@ -1,0 +1,34 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="main_card">
+        <item name="cardCornerRadius">4dp</item>
+        <item name="cardBackgroundColor">@color/main_card_color</item>
+        <item name="cardElevation">@dimen/main_card_elevation</item>
+    </style>
+
+    <style name="main_autocomplete">
+        <item name="android:singleLine">true</item>
+        <item name="android:backgroundTint">@android:color/transparent</item>
+        <item name="android:completionThreshold">1</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textSize">@dimen/main_autocomplete_text_size</item>
+    </style>
+
+    <style name="result_date">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textSize">@dimen/item_result_date_text_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="result_days">
+        <item name="android:fontFamily">sans-serif-condensed</item>
+        <item name="android:textSize">@dimen/item_result_days_text_size</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

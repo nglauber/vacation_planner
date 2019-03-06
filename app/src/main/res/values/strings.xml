@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Vacation Planner</string>
+
+    <string name="main_label_city">City</string>
+    <string name="main_label_days">How many days?</string>
+    <string name="main_label_weather_type">Weather Type</string>
+    <string name="hint_search_city">Where do you want to enjoy your vacation?</string>
+    <string name="hint_weather_type">Type the desired climates</string>
+    <string name="state_country">%1$s, %2$s</string>
+    <string name="main_find_button">Search</string>
+
+    <string name="main_error_search_city">Fail to search cities.</string>
+    <string name="main_error_search_weather_type">Fail to search weather types.</string>
+    <string name="main_error_search_vacation_dates">Fail to search vacation dates.</string>
+    <string name="main_empty_title">No Results Found</string>
+    <string name="main_empty_text">Try a different search\nor change some of the filters you’ve set.</string>
+
+    <string name="vacation_result_date_from">From</string>
+    <string name="vacation_result_date_to">To</string>
+    <string name="vacation_result_days_count">days</string>
+    <string name="main_empty_icon_cd">Sad face</string>
+</resources>

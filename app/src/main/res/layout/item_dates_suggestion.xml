@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/main_results_bg_color">
+
+    <TextView
+        android:id="@+id/txtLabelFrom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/general_small_space"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/vacation_result_date_from"
+        app:layout_constraintBottom_toTopOf="@+id/txtDateFrom"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="packed" />
+
+    <TextView
+        android:id="@+id/txtDateFrom"
+        style="@style/result_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/general_small_space"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtLabelFrom"
+        app:layout_constraintVertical_bias="0.0"
+        tools:text="22/10/2019" />
+
+    <TextView
+        android:id="@+id/txtLabelTo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/general_small_space"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/vacation_result_date_to"
+        app:layout_constraintBottom_toTopOf="@+id/txtDateTo"
+        app:layout_constraintStart_toStartOf="@+id/guideline"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="packed" />
+
+    <TextView
+        android:id="@+id/txtDateTo"
+        style="@style/result_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/general_small_space"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/guideline"
+        app:layout_constraintTop_toBottomOf="@+id/txtLabelTo"
+        app:layout_constraintVertical_bias="0.0"
+        tools:text="22/10/2019" />
+
+    <TextView
+        style="@style/result_days"
+        android:id="@+id/txtDaysCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/general_small_space"
+        android:layout_marginEnd="@dimen/general_small_space"
+        app:layout_constraintBottom_toTopOf="@+id/txtLabelDays"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="packed"
+        tools:text="100" />
+
+    <TextView
+        android:id="@+id/txtLabelDays"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/general_small_space"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/vacation_result_days_count"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/txtDaysCount"
+        app:layout_constraintTop_toBottomOf="@+id/txtDaysCount" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.4" />
+</androidx.constraintlayout.widget.ConstraintLayout>

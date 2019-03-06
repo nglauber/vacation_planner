@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/linearLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txtCity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/general_small_space"
+        android:layout_marginTop="@dimen/general_small_space"
+        android:layout_marginEnd="@dimen/general_small_space"
+        android:fontFamily="sans-serif-black"
+        android:textColor="@color/colorPrimaryText"
+        android:textSize="@dimen/item_city_text_size"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Recife" />
+
+    <TextView
+        android:id="@+id/txtStateCountry"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/general_smallest_space"
+        android:layout_marginEnd="@dimen/general_small_space"
+        android:layout_marginBottom="@dimen/general_small_space"
+        android:textColor="@color/colorSecondaryText"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/txtCity"
+        app:layout_constraintTop_toBottomOf="@+id/txtCity"
+        tools:text="Pernambuco, Brazil" />
+</androidx.constraintlayout.widget.ConstraintLayout>
